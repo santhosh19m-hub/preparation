@@ -1,0 +1,12 @@
+package Task;
+
+public class UseDemo4prime {
+
+	public static void main(String[] args) {
+		int[] a= {1,2,3,4,5,6,7,8,9,10};
+		Demo4prime d=new Demo4prime();
+		d.findPrime(a);
+
+	}
+
+}
